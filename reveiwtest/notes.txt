@@ -1,0 +1,5 @@
+click alt f2
+
+display:block ;
+            :incline height width 
+            :incline-b;pco

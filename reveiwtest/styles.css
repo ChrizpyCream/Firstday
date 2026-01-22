@@ -1,0 +1,24 @@
+
+:root{
+    font-family: "DM Sans", sans-serif;
+     --primarycolor:rgb(94, 52, 134);
+     --primarylight:rgba(135, 135, 192, 0.822);
+}
+body{
+    background-color: var(--primary-dark);
+    color: var(--primarylight);
+    margin: 0;
+    padding: 0;
+    }
+
+.imgFigure {
+    width: 40px;
+    display:inline-block ;
+}
+figure{
+    display: inc
+}
+
+#card-container {
+    padding-left: 30px
+}
